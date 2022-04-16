@@ -1,0 +1,9 @@
+{
+    "env": {
+        "DB_USER": "manan",
+        "DB_PASSWORD": "admin123",
+        "DB_NAME": "LocationApp",
+        "GOOGLE_API_KEY": "AIzaSyAauS7dz8PP4WKJoQt4TQJTWPGMBXl03mA",
+        "JWT_KEY": "super_private_key"
+    }
+}
